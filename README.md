@@ -1,2 +1,2 @@
-# Git-testext
+# Git-text
 Some Text
